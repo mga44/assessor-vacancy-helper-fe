@@ -1,0 +1,690 @@
+[
+    {
+        "courtName": "Sąd Rejonowy w Tucholi",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 53.58610415,
+        "longitude": 17.861715180439788
+    },
+    {
+        "courtName": "Sąd Rejonowy Gdańsk-Północ w Gdańsku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 54.35317965,
+        "longitude": 18.58900823253105
+    },
+    {
+        "courtName": "Sąd Rejonowy Gdańsk-Północ w Gdańsku",
+        "courtDepartment": "VI Wydział Gospodarczy",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 54.35317965,
+        "longitude": 18.58900823253105
+    },
+    {
+        "courtName": "Sąd Rejonowy w Sopocie",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 54.4435709,
+        "longitude": 18.5573769
+    },
+    {
+        "courtName": "Sąd Rejonowy w Wejherowie",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 54.6007497,
+        "longitude": 18.24322429852321
+    },
+    {
+        "courtName": "Sąd Rejonowy w Lęborku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 54.54341265,
+        "longitude": 17.753235194529687
+    },
+    {
+        "courtName": "Sąd Rejonowy w Brodnicy",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 53.25982765,
+        "longitude": 19.393104743332373
+    },
+    {
+        "courtName": "Sąd Rejonowy w Aleksandrowie Kujawskim",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 52.88264255,
+        "longitude": 18.68790780233424
+    },
+    {
+        "courtName": "Sąd Rejonowy we Włocławku",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 52.6585453,
+        "longitude": 19.060367790719308
+    },
+    {
+        "courtName": "Sąd Rejonowy we Włocławku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Gdańsku",
+        "latitude": 52.6585453,
+        "longitude": 19.060367790719308
+    },
+    {
+        "courtName": "Sąd Rejonowy w Opolu Lubelskim",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 51.1470058,
+        "longitude": 21.967080935185923
+    },
+    {
+        "courtName": "Sąd Rejonowy w Rykach",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 51.6268567,
+        "longitude": 21.933142232838467
+    },
+    {
+        "courtName": "Sąd Rejonowy w Radomiu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 51.41181615,
+        "longitude": 21.153219367127573
+    },
+    {
+        "courtName": "Sąd Rejonowy w Radomiu",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 51.41181615,
+        "longitude": 21.153219367127573
+    },
+    {
+        "courtName": "Sąd Rejonowy w Łukowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 51.9291461,
+        "longitude": 22.38193622892883
+    },
+    {
+        "courtName": "Sąd Rejonowy w Mińsku Mazowieckim",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 52.180377050000004,
+        "longitude": 21.55682329930223
+    },
+    {
+        "courtName": "Sąd Rejonowy w Mińsku Mazowieckim",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 52.180377050000004,
+        "longitude": 21.55682329930223
+    },
+    {
+        "courtName": "Sąd Rejonowy w Siedlcach",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 52.1760974,
+        "longitude": 22.301169891840402
+    },
+    {
+        "courtName": "Sąd Rejonowy w Hrubieszowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Lublinie",
+        "latitude": 50.8055068,
+        "longitude": 23.8859094
+    },
+    {
+        "courtName": "Sąd Rejonowy w Koninie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Poznaniu",
+        "latitude": 52.232796199999996,
+        "longitude": 18.25039256517336
+    },
+    {
+        "courtName": "Sąd Rejonowy w Śremie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Poznaniu",
+        "latitude": 52.097087099999996,
+        "longitude": 17.022587447964472
+    },
+    {
+        "courtName": "Sąd Rejonowy w Środzie Wielkopolskiej",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Poznaniu",
+        "latitude": 52.228593200000006,
+        "longitude": 17.27514747468669
+    },
+    {
+        "courtName": "Sąd Rejonowy w Cieszynie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 49.748023950000004,
+        "longitude": 18.636767298106868
+    },
+    {
+        "courtName": "Sąd Rejonowy w Tarnowskich Górach",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.4468639,
+        "longitude": 18.852312930753413
+    },
+    {
+        "courtName": "Sąd Rejonowy w Bytomiu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.3477438,
+        "longitude": 18.917396754694202
+    },
+    {
+        "courtName": "Sąd Rejonowy w Bytomiu",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.3477438,
+        "longitude": 18.917396754694202
+    },
+    {
+        "courtName": "Sąd Rejonowy Katowice-Wschód",
+        "courtDepartment": "II Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.2521468,
+        "longitude": 19.0240658
+    },
+    {
+        "courtName": "Sąd Rejonowy Katowice-Wschód",
+        "courtDepartment": "X Wydział Gospodarczy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.2521468,
+        "longitude": 19.0240658
+    },
+    {
+        "courtName": "Sąd Rejonowy Katowice-Zachód",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.2593091,
+        "longitude": 19.01228
+    },
+    {
+        "courtName": "Sąd Rejonowy Katowice-Zachód",
+        "courtDepartment": "II Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 50.2593091,
+        "longitude": 19.01228
+    },
+    {
+        "courtName": "Sąd Rejonowy w Pszczynie",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Katowicach",
+        "latitude": 49.9736508,
+        "longitude": 18.94515741524289
+    },
+    {
+        "courtName": "Sąd Rejonowy w Pruszkowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.16283385,
+        "longitude": 20.811800156130232
+    },
+    {
+        "courtName": "Sąd Rejonowy w Pruszkowie",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.16283385,
+        "longitude": 20.811800156130232
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Mokotowa",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.246491899999995,
+        "longitude": 21.00766686934888
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Mokotowa",
+        "courtDepartment": "II Wydział Cywilny",
+        "vacancy": 5,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.246491899999995,
+        "longitude": 21.00766686934888
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Mokotowa",
+        "courtDepartment": "XVI Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.246491899999995,
+        "longitude": 21.00766686934888
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Mokotowa",
+        "courtDepartment": "III Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.246491899999995,
+        "longitude": 21.00766686934888
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Śródmieścia",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2280133,
+        "longitude": 21.0142035
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Śródmieścia",
+        "courtDepartment": "VI Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2280133,
+        "longitude": 21.0142035
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Śródmieścia",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2280133,
+        "longitude": 21.0142035
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy-Śródmieścia",
+        "courtDepartment": "X Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2280133,
+        "longitude": 21.0142035
+    },
+    {
+        "courtName": "Sąd Rejonowy w Otwocku",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.105596750000004,
+        "longitude": 21.265814618124047
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy Pragi-Południe",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2490793,
+        "longitude": 21.0691777
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy Pragi-Południe",
+        "courtDepartment": "II Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.2490793,
+        "longitude": 21.0691777
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy Pragi-Północ",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.249846,
+        "longitude": 21.0634407
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy Pragi-Północ",
+        "courtDepartment": "II Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.249846,
+        "longitude": 21.0634407
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Warszawy Pragi-Północ",
+        "courtDepartment": "VIII Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.249846,
+        "longitude": 21.0634407
+    },
+    {
+        "courtName": "Sąd Rejonowy w Wołominie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Warszawie",
+        "latitude": 52.34380245,
+        "longitude": 21.238876849116977
+    },
+    {
+        "courtName": "Sąd Rejonowy w Krośnie",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Rzeszowie",
+        "latitude": 52.05491365,
+        "longitude": 15.105682644052997
+    },
+    {
+        "courtName": "Sąd Rejonowy w Rzeszowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Rzeszowie",
+        "latitude": 50.0346187,
+        "longitude": 22.019730479948823
+    },
+    {
+        "courtName": "Sąd Rejonowy w Rzeszowie",
+        "courtDepartment": "XI Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Rzeszowie",
+        "latitude": 50.0346187,
+        "longitude": 22.019730479948823
+    },
+    {
+        "courtName": "Sąd Rejonowy w Rzeszowie",
+        "courtDepartment": "X Wydział Karny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Rzeszowie",
+        "latitude": 50.0346187,
+        "longitude": 22.019730479948823
+    },
+    {
+        "courtName": "Sąd Rejonowy w Nisku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Rzeszowie",
+        "latitude": 50.516532749999996,
+        "longitude": 22.149033449999997
+    },
+    {
+        "courtName": "Sąd Rejonowy w Opolu",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 50.66774065,
+        "longitude": 17.94446941175824
+    },
+    {
+        "courtName": "Sąd Rejonowy w Kłodzku",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 50.432886350000004,
+        "longitude": 16.649279458632762
+    },
+    {
+        "courtName": "Sąd Rejonowy w Środzie Śląskiej",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 51.1651053,
+        "longitude": 16.59107427936631
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Wrocławia-Fabrycznej",
+        "courtDepartment": "XI Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 51.1147153,
+        "longitude": 17.0051992
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Wrocławia-Fabrycznej",
+        "courtDepartment": "XIV Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 51.1147153,
+        "longitude": 17.0051992
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Wrocławia-Śródmieścia",
+        "courtDepartment": "V Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 51.1056942,
+        "longitude": 17.0265441
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Wrocławia-Śródmieścia",
+        "courtDepartment": "IV Wydział Pracy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego we Wrocławiu",
+        "latitude": 51.1056942,
+        "longitude": 17.0265441
+    },
+    {
+        "courtName": "Sąd Rejonowy we Włoszczowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.846783450000004,
+        "longitude": 19.98096629089769
+    },
+    {
+        "courtName": "Sąd Rejonowy w Chrzanowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.1412958,
+        "longitude": 19.4022683
+    },
+    {
+        "courtName": "Sąd Rejonowy w Chrzanowie",
+        "courtDepartment": "IV Wydział Pracy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.1412958,
+        "longitude": 19.4022683
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Krakowa-Krowodrzy w Krakowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.064352,
+        "longitude": 19.9616619
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Krakowa-Podgórza w Krakowie",
+        "courtDepartment": "XII Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.0633838,
+        "longitude": 19.9618165
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Krakowa-Śródmieścia",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.0640305,
+        "longitude": 19.961711
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Krakowa-Śródmieścia",
+        "courtDepartment": "IV Wydział Gospodarczy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.0640305,
+        "longitude": 19.961711
+    },
+    {
+        "courtName": "Sąd Rejonowy w Wieliczce",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.0345231,
+        "longitude": 20.2167633
+    },
+    {
+        "courtName": "Sąd Rejonowy w Gorlicach",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 49.6622329,
+        "longitude": 21.1612881
+    },
+    {
+        "courtName": "Sąd Rejonowy w Nowym Targu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 49.4644963,
+        "longitude": 19.99756679420884
+    },
+    {
+        "courtName": "Sąd Rejonowy w Tarnowie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Krakowie",
+        "latitude": 50.00859645,
+        "longitude": 20.993589310137175
+    },
+    {
+        "courtName": "Sąd Rejonowy w Kaliszu",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.7600521,
+        "longitude": 18.0891363
+    },
+    {
+        "courtName": "Sąd Rejonowy w Krotoszynie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.6933825,
+        "longitude": 17.430960079345002
+    },
+    {
+        "courtName": "Sąd Rejonowy dla Łodzi-Śródmieścia w Łodzi",
+        "courtDepartment": "XIII Wydział Gospodarczy",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.7655469,
+        "longitude": 19.4846564
+    },
+    {
+        "courtName": "Sąd Rejonowy w Łowiczu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 52.10500395,
+        "longitude": 19.947207619860194
+    },
+    {
+        "courtName": "Sąd Rejonowy w Opocznie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 2,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.37810745,
+        "longitude": 20.279671314600677
+    },
+    {
+        "courtName": "Sąd Rejonowy w Płońsku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 52.63076575,
+        "longitude": 20.378661900536088
+    },
+    {
+        "courtName": "Sąd Rejonowy w Łasku",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.89625495,
+        "longitude": 18.956588362435248
+    },
+    {
+        "courtName": "Sąd Rejonowy w Sieradzu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.59358685,
+        "longitude": 18.731403188844517
+    },
+    {
+        "courtName": "Sąd Rejonowy w Wieluniu",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Łodzi",
+        "latitude": 51.219128600000005,
+        "longitude": 18.575823348234277
+    },
+    {
+        "courtName": "Sąd Rejonowy w Białogardzie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Szczecinie",
+        "latitude": 54.0062745,
+        "longitude": 15.9804676
+    },
+    {
+        "courtName": "Sąd Rejonowy w Koszalinie",
+        "courtDepartment": "VII Wydział Gospodarczy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Szczecinie",
+        "latitude": 54.189325749999995,
+        "longitude": 16.193905956663926
+    },
+    {
+        "courtName": "Sąd Rejonowy w Stargardzie",
+        "courtDepartment": "I Wydział Cywilny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Szczecinie",
+        "latitude": 53.3417214,
+        "longitude": 15.0371064
+    },
+    {
+        "courtName": "Sąd Rejonowy Szczecin-Centrum w Szczecinie",
+        "courtDepartment": "XII Wydział Gospodarczy",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Szczecinie",
+        "latitude": 53.4202427,
+        "longitude": 14.547308
+    },
+    {
+        "courtName": "Sąd Rejonowy w Giżycku",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Białymstoku",
+        "latitude": 54.0356625,
+        "longitude": 21.778104090934868
+    },
+    {
+        "courtName": "Sąd Rejonowy w Suwałkach",
+        "courtDepartment": "II Wydział Karny",
+        "vacancy": 1,
+        "appelation": "w obszarze właściwości Sądu Apelacyjnego w Białymstoku",
+        "latitude": 54.099920299999994,
+        "longitude": 22.951528458315956
+    }
+]

@@ -9,6 +9,15 @@
 </head>
 <body>
   <h1>Map and Table Display from JSON Coordinates</h1>
+
+  <label for="jsonSelector">Choose data set:</label>
+  <select id="jsonSelector">
+    <option value="coordinates_2023.json">2023</option>
+    <option value="coordinates_2024.json">2024</option>
+    <option value="coordinates3.json">N/A</option>
+    <!-- Add more options for other JSON files -->
+  </select>
+
   <div id="map"></div>
   <table id="coordinates-table">
     <thead>
@@ -20,7 +29,7 @@
       <!-- Data rows are dynamically populated -->
     </tbody>
   </table>
-  
+
   <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
   <script src="app.js"></script>
 </body>
